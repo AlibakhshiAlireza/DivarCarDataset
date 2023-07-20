@@ -16,13 +16,7 @@ To predict prices accurately, we flattened the data and prepared it in a format 
 
 ## Code
 
-The code for this project is available in the respective folders for each stage of the process:
-
-1. **Data Crawling:** The code used for crawling the Divar website is located in the `data_crawling` directory.
-
-2. **Data Preprocessing and Mapping:** The preprocessing and mapping code can be found in the `data_preprocessing_mapping` directory.
-
-3. **Data Flattening and Price Prediction:** The data flattening and price prediction model code are available in the `price_prediction` directory.
+The code for this project is available in the respective notebook
 
 Feel free to explore the code to understand the implementation details and customize it according to your needs.
 
